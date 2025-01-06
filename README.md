@@ -1,8 +1,8 @@
-### Olá! Eu sou o Gleison Rodrigo 👋
+## Olá! Eu sou o Gleison Rodrigo 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glrodrigo&show_icons=true&theme=tokyonight)
 
-## Tecnologias que utilizo atualmente
+### Tecnologias que utilizo atualmente
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,7 +14,7 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## Contato
+### Contato
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
